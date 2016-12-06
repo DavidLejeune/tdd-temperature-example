@@ -14,4 +14,7 @@ class Temperature
         FAHRENHEIT_OFFSET + temperature * FAHRENHEIT_SLOPE
     end
 
+    def to_kelvin
+
+    end
 end
